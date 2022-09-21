@@ -27,6 +27,7 @@ button{
     border: none;
     color: white;
     padding: 7px;
+    margin-top:10px;
     border-radius: 4px;
     position: relative;
     left:95%;
@@ -114,7 +115,7 @@ a{
     button{
         position: relative;
         left:90%;
-        width: 20px;
+        width: 15px;
     }
     .search-result{
         width:90%;
