@@ -7,7 +7,7 @@ the recipe of how its prepared. In addition it shows users amount of calories an
   
 💻 Built with
 
-Technologies used in the project:
+### Technologies used in the project:
 
 *   Javascript
 *   Edeman APIS
@@ -15,4 +15,4 @@ Technologies used in the project:
 *   CSS
 *   Chrome Dev Tools# Food-Recipe-App  
 
-Deployed Link: https://miss-shelby-foodapp.netlify.app/
+#### Deployed Link: https://miss-shelby-foodapp.netlify.app/
