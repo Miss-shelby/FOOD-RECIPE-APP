@@ -13,5 +13,6 @@ Technologies used in the project:
 *   Edeman APIS
 *   HTML
 *   CSS
-*   Chrome Dev Tools# Food-Recipe-App
+*   Chrome Dev Tools# Food-Recipe-App  
+
 Deployed Link: https://miss-shelby-foodapp.netlify.app/
